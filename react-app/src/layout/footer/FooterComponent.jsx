@@ -89,7 +89,7 @@ const Footer = () => {
       <div className="bottomText">
         <p>
           &copy; {new Date().getFullYear()} Your Company. All rights reserved to
-          ON LINE MALL.
+          Maidan Gonen.
         </p>
       </div>
     </footer>
