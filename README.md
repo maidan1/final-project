@@ -5,7 +5,7 @@ Welcome to our React Web Application! This guide will help you navigate through 
 ## This The Admin User
 
 - [email:admin@gmail.com]
-- [password:123456aA!]
+- [password:Maidan!123]
 
 ## Table of Contents
 
