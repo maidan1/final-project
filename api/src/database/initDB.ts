@@ -26,7 +26,7 @@ const initDB = async () => {
         subtitle: "(2nd Gen)",
         description:
           "Apple Watch SE (2nd Gen) [GPS 40mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Loop. Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Carbon Neutral",
-        brand: "Appel",
+        brand: "Apple",
         price: "$142.00",
         shipping: "$15.00",
         images: [
@@ -58,7 +58,7 @@ const initDB = async () => {
         subtitle: "MacBook Pro",
         description:
           "Apple 2023 MacBook Pro Laptop M3 chip with 8‑core CPU, 10‑core GPU: 14.2-inch Liquid Retina XDR Display, 8GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Space Gray",
-        brand: "Appel",
+        brand: "Apple",
         price: "$1,333.00",
         shipping: "$75.00",
         images: [
